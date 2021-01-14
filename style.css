@@ -26,3 +26,27 @@ p, h1{
 .background-color{
     background-color: #FFFBF0;
 }
+h5{
+    font-weight: 700;
+}
+.card img{
+    width: 210px;
+    height: 257px;
+}
+.price{
+    color: #FABE4C;
+    font-weight: 900;
+    font-size: 36px;
+}
+.card{
+    border: 0em;
+    border-radius: 20px;
+}
+.img-bg{
+    background-color: #F1F1F1;
+}
+.img-mp{
+    width: 50%;
+    margin: 1px auto;
+    display:block;
+}
