@@ -1,7 +1,28 @@
+p, h1{
+    font-family: 'Bebas Neue', cursive;
+}
 .logo img{
     width: 300px;
 }
-.nav-font{
-    font-weight: 500;
-    color: black;
+.img-top img{
+    width: 400px;
+}
+.btn-customized{
+    border-radius: 7px;
+    background-image: linear-gradient(#A4BC46, #85A019);
+    color: white;
+    border:0px;
+    padding: 10px 25px;
+}
+.btn-customized img{
+    width: 20px;
+}
+.head-1{
+    color: #FABE4C;
+}
+.head-2{
+    color: #363958;
+}
+.background-color{
+    background-color: #FFFBF0;
 }
